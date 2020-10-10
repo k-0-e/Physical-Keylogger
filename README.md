@@ -1,2 +1,3 @@
 # Physical-Keylogger
-Simple Keylogger program
+This project has two version:
+Encrypted_keylogger & Keylogger
